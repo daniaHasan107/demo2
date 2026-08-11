@@ -1,0 +1,30 @@
+2026.08.11 14:19:23 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\workstation\Desktop\demo' for client Visual Studio Code 1.124.2.
+2026.08.11 14:19:23 INFO  Memory monitor started
+2026.08.11 14:19:25 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.08.11 14:19:34 INFO  running 'C:\Users\workstation\Desktop\demo\gradlew.bat --stacktrace --console=plain --init-script C:\Users\WORKST~1\AppData\Local\Temp\metals6040949454217997035\init-script.gradle bloopInstall'
+2026.08.11 14:21:34 ERROR Exception in thread "main" java.lang.RuntimeException: Timeout of 120000 reached waiting for exclusive access to file: C:\Users\workstation\.gradle\wrapper\dists\gradle-9.5.1-bin\iq79hdu3mqx29lgffhp8bfmx\gradle-9.5.1-bin.zip
+2026.08.11 14:21:34 ERROR 	at org.gradle.wrapper.Install.createDist(SourceFile:26)
+2026.08.11 14:21:34 ERROR 	at org.gradle.wrapper.GradleWrapperMain.lambda$prepareWrapper$0(SourceFile:2)
+2026.08.11 14:21:34 ERROR 	at org.gradle.wrapper.GradleWrapperMain.main(SourceFile:2)
+2026.08.11 14:21:34 INFO  time: ran 'gradle bloopInstall' in 2m
+2026.08.11 14:21:34 ERROR Gradle command failed: C:\Users\workstation\Desktop\demo\gradlew.bat --stacktrace --console=plain --init-script C:\Users\WORKST~1\AppData\Local\Temp\metals6040949454217997035\init-script.gradle bloopInstall
+2026.08.11 14:21:35 WARN  no build target for: C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java
+2026.08.11 14:23:33 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:23:37 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:23:37 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:26:53 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\workstation\Desktop\demo' for client Visual Studio Code 1.124.2.
+2026.08.11 14:26:53 INFO  Memory monitor started
+2026.08.11 14:26:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.08.11 14:26:59 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:26:59 INFO  skipping build import with status 'Failed'
+2026.08.11 14:27:00 WARN  no build target for: C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java
+2026.08.11 14:27:00 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:27:01 INFO  time: code lens generation in 1.35s
+2026.08.11 14:34:11 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:40:22 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:45:45 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:48:06 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:50:07 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.08.11 14:52:01 INFO  no build target found for C:\Users\workstation\Desktop\demo\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+Aug 11, 2026 2:53:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
