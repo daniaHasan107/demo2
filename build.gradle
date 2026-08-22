@@ -44,8 +44,7 @@ jacocoTestReport {
 
 sonarqube {
 	properties {
-		property "sonar.projectKey", "BankMasrProject_demo"
-		property "sonar.organization", "bankmasrproject"
+		property "sonar.projectKey", "Bank_Masr_Bank_Masr_AZ--bO7G1zgw7tl2aRhx"
 		property "sonar.projectName", "demo"
 		property "sonar.coverage.jacoco.xmlReportPaths", "${buildDir}/reports/jacoco/test/jacocoTestReport.xml"
 		property "sonar.sourceEncoding", "UTF-8"
